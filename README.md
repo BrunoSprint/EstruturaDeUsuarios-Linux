@@ -1,2 +1,4 @@
 # EstruturaDeUsuarios-Linux
-Script de Estrutura: Usuários, Diretórios e Permissões.
+
+Descrição do Projeto:  
+Neste script serão criados grupos de usuários, diretórios e permissões.
